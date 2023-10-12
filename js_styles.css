@@ -226,7 +226,8 @@ footer {
     margin-left: 20px;
     padding-left: 20px;
     background-color: #D8BFD8;
-    border-radius: 20px;
+    border: 2px dotted #4B0082;
+    border-radius: 25px;
     height: 300px;
     width: 400px;
     display: flex;
